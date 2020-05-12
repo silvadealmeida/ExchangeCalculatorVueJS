@@ -1,4 +1,4 @@
-# exchangerate
+# Exchange Rate Calculator
 
 ## Project setup
 ```
